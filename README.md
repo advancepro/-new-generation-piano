@@ -7,9 +7,14 @@ Program used in the project's working phase
 
 Includes:
 -Breadboard
--buttons and a buzzer and cables connecting it
+-buttons 
+-buzzer
+-cables 
+
 -------------------------------------------
+
 The arduino code is available in the project
+
 -------------------------------------------
 
 Applications that I use to complete the project:
