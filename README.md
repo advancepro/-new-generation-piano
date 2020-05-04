@@ -27,5 +27,5 @@ In addition, while playing, I thought a piano would be needed to be supported by
 - Solvespace.
 
 
-Grub contains only one person
+Group contains only one person
 Project owner: Sumeyra Betul Polat
