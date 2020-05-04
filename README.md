@@ -23,7 +23,7 @@ Applications that I use to complete the project:
 - Cura
 (Images are all included)
 
-In addition, while playing, I thought a piano would be needed to be support by a table, and I designed a table with 
+In addition, while playing, I thought a piano would be needed to be supported by a table, and I designed a table with 
 - Solvespace.
 
 
